@@ -1,2 +1,2 @@
 # Tourist-density-in-Madrid-by-zip-code
-This project focuses on analyzing the distribution and density of hotel accommodations in Madrid, providing valuable insights into the city's tourism landscape.
+This project focuses on analyzing the distribution and density of hotel accommodations in Madrid, providing valuable insights into the city's tourism landscape. By visualizing key metrics such as hotel density by postal code, the proportion of accommodation types, and identifying the most densely populated areas, this analysis aims to support urban planning, business strategies, and tourism development. The inclusion of interactive maps further enhances the accessibility and practical value of the results.
